@@ -1,0 +1,2 @@
+AI-212
+$(pwd)\n$(whoami)
